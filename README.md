@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/eqemupvptrackerbanner.png" alt="PvP Tracker Banner" />
-</p>
-
 # EQemu PvP Tracker
 
 Zone-agnostic PvP tracker for EQEmu servers.  
