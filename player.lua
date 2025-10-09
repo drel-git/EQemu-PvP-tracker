@@ -1,4 +1,5 @@
 -- PvP Event Tracker (zone-agnostic)
+-- Made by Drel for the Project Lazarus EQ Emu MYSTERY EVENTs
 -- - Zone/world yellow announce on PvP kills
 -- - Temporary (event-scoped) kills/deaths in Data Buckets (TTL)
 -- - Deterministic Event IDs: YYYYMMDD-HHMM[-Name]
