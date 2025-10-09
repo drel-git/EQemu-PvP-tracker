@@ -1,4 +1,4 @@
-# PvP Event Tracker (EQEmu Lua Script)
+# EQemu PvP Tracker (Lua Script)
 
 Zone-agnostic PvP event tracker for EQEmu. Logs PvP kills during a timed event, announces kills, keeps temporary per-event stats, and exports results as **Markdown** (for Discord) and **CSV** (for spreadsheets). Designed to drop into any zone’s `quests/<zone>/player.lua`.
 
