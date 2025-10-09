@@ -9,7 +9,7 @@ Zone-agnostic PvP event tracker for EQEmu. Logs PvP kills during a timed event, 
 - Zonewide PvP announcements in yellow text --> PvP: Disto has slain Drel! (Event Kills: 3)
 - Temporary event storage - kills/deaths stored with TTL (default ~36h)
   - configurable by changing `local EVENT_TTL_SECONDS = 36 * 60 * 60  -- ~36h`
-- Anti-feed protection - ignores repeat killer→victim within a timeframe (default 45s)
+- Anti-feed protection - ignores repeat killer→victim within a timeframe (default OFF 0s)
   - configurable by changing `local ANTI_FEED_SECONDS = 45`
 - Sortable leaderboard - ranked by kills, then K/D, then deaths.
 - Exports (GM-only):  
