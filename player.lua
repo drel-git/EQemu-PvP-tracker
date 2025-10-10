@@ -385,11 +385,11 @@ local function handle_command(e)
     tell(e.self, "!event start [name …] [minutes]   (GM) — start event (optional name/duration)")
     tell(e.self, "!event stop                        (GM) — stop the active event")
     tell(e.self, "!event clear                       (GM) — clear event id/data (soft)")
+    tell(e.self, "!event export                     (GM) — export Markdown + CSV to files")
+    tell(e.self, "!event post [N] [page]            (GM) — broadcast leaderboard to zone/world")
     tell(e.self, "!event status                           — show state, time left, participants, totals")
     tell(e.self, "!event me                               — your event K/D")
     tell(e.self, "!event top [N] [page]                  — show top N (default 10), paginated")
-    tell(e.self, "!event export                     (GM) — export Markdown + CSV to files")
-    tell(e.self, "!event post [N] [page]            (GM) — broadcast leaderboard to zone/world")
     return true
   end
 
