@@ -1,7 +1,7 @@
 # EQemu PvP Tracker
 
 Zone-agnostic PvP tracker for EQEmu servers.  
-Logs player-vs-player kills during timed events, announces kills, keeps temporary per-event stats, and exports results in **Markdown** (for Discord) and **CSV** (for spreadsheets).
+Logs player-vs-player kills during timed events, announces kills (either zone or worldwide), keeps temporary per-event stats, and exports results in **Markdown** (for Discord) and **CSV** (for spreadsheets). Can be used either temporarily or longterm.
 
 
 ---
