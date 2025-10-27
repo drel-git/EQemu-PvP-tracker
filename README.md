@@ -65,4 +65,6 @@ Logs player-vs-player kills during timed events, announces kills, keeps temporar
 On `!event export` (GM-only):
 - **Markdown snapshot:** `<zone>_pvp_event_<EID>.md`
 - **CSV snapshot:** `<zone>_pvp_event_<EID>.csv`
-- **Fresh CSV (overwrites):** `quests/<zone>/<zone>_event.csv`
+- **Fresh CSV (overwrites):** `quests/<zone>/<zone>_event.csv` </br>
+---
+![pvpkillboard](https://github.com/user-attachments/assets/e8454af5-2510-476d-a963-2b9391ba50f9)
