@@ -1,7 +1,8 @@
 # EQemu PvP Tracker
 
 Zone-agnostic PvP tracker for EQEmu servers.  
-Lua script that logs player-vs-player kills, announces kills (either zone or worldwide), keeps temporary per-event stats (kills/deaths/ratio), and exports results in **Markdown** (for Discord) and **CSV** (for spreadsheets). Can be used either temporarily or longterm.
+
+A Lua script that logs player-vs-player kills, announces kills (either zone or worldwide), keeps temporary per-event stats (kills/deaths/ratio), and exports results in **Markdown** (for Discord) and **CSV** (for spreadsheets). Can be used either temporarily or longterm.
 
 
 ---
